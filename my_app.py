@@ -43,4 +43,4 @@ class MainWin(QWidget):
 app = QApplication([])
 mw = MainWin()
 app.exec_()
-v 
+x
